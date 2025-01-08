@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Konnur</h1>
+<h1 align="center">Hi 👋, I'm Aman </h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankonnur&label=Profile%20views&color=0e75b6&style=flat" alt="amankonnur" /> </p>
