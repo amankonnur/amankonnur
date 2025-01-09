@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman_konnur" target="blank"><img src="https://img.shields.io/twitter/follow/aman_konnur?logo=twitter&style=for-the-badge" alt="aman_konnur" /></a> </p>
 
-- 🌱 I’m currently learning **Django, React.js, Flask, TensorFlow, Keras**
+- 🌱 I’m currently learning **Django, Flask, React.js, TensorFlow, Keras**
 
 - 📫 How to reach me **amankonnur07@gmail.com**
 - ☎️ call me +91 9901872487
